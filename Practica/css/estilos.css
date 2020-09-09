@@ -1,0 +1,11 @@
+h3{
+    color: brown;
+}
+body{
+    background-color: rgb(236, 230, 230);
+}
+img.derecha{
+    float: right;
+    margin-left: 30px;
+    margin-right: 30px;
+}
